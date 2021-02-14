@@ -25,4 +25,19 @@ Problems with Discrete and Finite Output called **Classes** or **Categories**
 
 ![Logarithm](Image/LogFunction.png) 
 
+### Classification Performance
 
+![Confusion Matrix](ConfusionMatrix.png)
+
+1. True Positive : Correctly Predicted Positives 
+2. True Negative : Correctly Predicted Negatives
+3. False Positive : Incorrectly Predicted Positive (**Type I** Error | Accept **NULL** Hypothesis)
+4. False Negative : Incorrectly Predicted Negative (**Type II** Error | Do not Accept **NULL** Hypothesis)
+
+Positive Predictive Value : TP / TP + FP
+
+Negative Predictive Value : TN / TN + FN
+
+**Recall** | True Positive Rate (**TPR**) | **Sensitivity** : TP / TP + FN
+
+**Recall** | True Negative Rate (**TNR**) | **Specificity** : TN / FP + TN
