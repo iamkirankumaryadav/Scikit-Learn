@@ -34,6 +34,8 @@ Problems with Discrete and Finite Output called **Classes** or **Categories**
 3. **False Positive** (**FP**) : Incorrectly Predicted Positive (**Type I** Error | Accept **NULL** Hypothesis)
 4. **False Negative** (**FN**) : Incorrectly Predicted Negative (**Type II** Error | Do not Accept **NULL** Hypothesis)
 
+![Confusion Matrix](Image/CM.png)
+
 Positive Predictive Value : TP / TP + FP
 
 Negative Predictive Value : TN / TN + FN
