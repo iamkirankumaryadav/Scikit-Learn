@@ -1,5 +1,5 @@
 # Scikit Learn
-Machine Learning Library for Predictive Data Analysis using Python 
+**Machine Learning** Library for **Predictive Data Analysis** using **Python** 
 
 ### Y = X * B1 + B0
 
