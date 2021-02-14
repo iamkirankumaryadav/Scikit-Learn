@@ -27,7 +27,7 @@ Problems with Discrete and Finite Output called **Classes** or **Categories**
 
 ### Classification Performance
 
-![Confusion Matrix](ConfusionMatrix.jpg)
+![Confusion Matrix](Image/ConfusionMatrix.jpg)
 
 1. True Positive : Correctly Predicted Positives 
 2. True Negative : Correctly Predicted Negatives
