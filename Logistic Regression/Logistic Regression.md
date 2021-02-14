@@ -47,3 +47,9 @@ Negative Predictive Value : TN / TN + FN
 **Specificity** : TN / TN + FP 
 
 **Accuracy** : TP + TN / TP + TN + FP + FN (**Total**)
+
+### Single Variate Logistic Regression
+- Only One Independent Feature
+
+### Multi Variate Logistic Regression
+- More than one Independent Feature
