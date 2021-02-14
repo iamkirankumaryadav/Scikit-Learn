@@ -44,6 +44,6 @@ Negative Predictive Value : TN / TN + FN
 
 **Precision** | True Negative Rate (**TNR**) : TP / TP + FP (**Actual**)
 
-**Specificity** : TP / TP + FN (**Actual**)
+**Specificity** : TN / TN + FP 
 
 **Accuracy** : TP + TN / TP + TN + FP + FN (**Total**)
