@@ -29,10 +29,10 @@ Problems with Discrete and Finite Output called **Classes** or **Categories**
 
 ![Confusion Matrix](Image/ConfusionMatrix.jpg)
 
-1. True Positive : Correctly Predicted Positives 
-2. True Negative : Correctly Predicted Negatives
-3. False Positive : Incorrectly Predicted Positive (**Type I** Error | Accept **NULL** Hypothesis)
-4. False Negative : Incorrectly Predicted Negative (**Type II** Error | Do not Accept **NULL** Hypothesis)
+1. **True Positive** (**TP**) : Correctly Predicted Positives 
+2. **True Negative** (**TN**) : Correctly Predicted Negatives
+3. **False Positive** (**FP**) : Incorrectly Predicted Positive (**Type I** Error | Accept **NULL** Hypothesis)
+4. **False Negative** (**FN**) : Incorrectly Predicted Negative (**Type II** Error | Do not Accept **NULL** Hypothesis)
 
 Positive Predictive Value : TP / TP + FP
 
