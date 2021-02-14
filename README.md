@@ -5,7 +5,7 @@
 
 ### Linear Regression
 
-- **Learning** a Linear Regression Model means Estimating the Values of the **Coefficient** 
+- **Learning** a Linear Regression Model means estimating the values of the **Coefficient** 
 
 - **Predict** the Value of a **Feature** based on the Value of Another Feature.
 
