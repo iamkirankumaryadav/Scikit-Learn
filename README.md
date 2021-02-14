@@ -32,4 +32,3 @@
 2. Multiple Linear Regression
 3. Polynomial Linear Regression
 4. Advanced Linear Regression
-
