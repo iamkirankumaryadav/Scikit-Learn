@@ -23,6 +23,6 @@ Problems with Discrete and Finite Output called **Classes** or **Categories**
 ### Natural Logarithm Function 
 **Logarithm** Function has values between 0 and 1
 
-![Sigmoid](Image/LogarithmFunction.png) 
+![Logarithm](Image/LogFunction.png) 
 
 
