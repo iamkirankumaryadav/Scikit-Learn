@@ -1,12 +1,6 @@
 # Scikit Learn
 Machine Learning Library for Predictive Data Analysis using Python 
 
-## Linear Regression
-
-**Learning** a Linear Regression Model means Estimating the Values of the **Coefficient** 
-
-**Predict** the Value of a **Feature** based on the Value of Another Feature.
-
 ### Y = X * B1 + B0
 
 ## Coefficients
@@ -27,6 +21,13 @@ Machine Learning Library for Predictive Data Analysis using Python
 
 ### Residuals 
 - Actual - Prediction
+
+
+## Linear Regression
+
+**Learning** a Linear Regression Model means Estimating the Values of the **Coefficient** 
+
+**Predict** the Value of a **Feature** based on the Value of Another Feature.
 
 1. Simple Linear Regression
 2. Multiple Linear Regression
