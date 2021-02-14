@@ -18,7 +18,7 @@ Problems with Discrete and Finite Output called **Classes** or **Categories**
 ### Sigmoid Function (S Shaped Curve)
 **Sigmoid** Function has values very close to either **0** or **1**
 
-![Sigmoid](Image/SigmoidFunction.png) {width:200px}
+![Sigmoid](Image/SigmoidFunction.png) {width:150px, height:150px}
 
 ### Natural Logarithm Function 
 
