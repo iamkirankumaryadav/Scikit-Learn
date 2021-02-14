@@ -10,14 +10,14 @@ Identify **Cluster** | Group of Data Object in a Dataset
 
 ### Categories of Clustering
 
-1. Partitional Clustering
+#### 1. Partitional Clustering
 - Divide Data Objects in **Non Overlapping Group**
 - An Object can be a **Member** of only One Cluster
 - **K** : Number of Clusters
 - An **Iterative** Process
 - Works  well when **Clusters** have **Spherical** Shape.
 
-2. Hierarchical Clustering
+#### 2. Hierarchical Clustering
 
 a. **Agglomerative** Clustering
 - **Bottom Up** Approach
