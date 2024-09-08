@@ -14,7 +14,7 @@
 ![Fit](https://github.com/iamkirankumaryadav/Scikit-Learn/blob/b91baac055fee9db06bfd8d7d2926a4ef90971d4/Image/Fit.png)
 
 ### **Metrics**
-![Metrics](https://github.com/iamkirankumaryadav/Scikit-Learn/blob/b91baac055fee9db06bfd8d7d2926a4ef90971d4/Image/Metrics.pn)
+![Metrics](https://github.com/iamkirankumaryadav/Scikit-Learn/blob/b91baac055fee9db06bfd8d7d2926a4ef90971d4/Image/Metrics.png)
 
 ### **Evaluate**
 ![Evaluate](https://github.com/iamkirankumaryadav/Scikit-Learn/blob/b91baac055fee9db06bfd8d7d2926a4ef90971d4/Image/Evaluate.png)
