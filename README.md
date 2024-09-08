@@ -1,15 +1,20 @@
 # Scikit Learn
 **Machine Learning** Library for **Predictive Data Analysis** using **Python** 
 
-## Supervised Machine Learning
+### **Train Test Split**
+![Train Test Split]()
 
-### Linear Regression
+### **Regressor**
+![Regressor]()
 
-- **Learning** a Linear Regression Model means estimating the values of the **Coefficient** 
+### **Classififer**
+![Classifier]()
 
-- **Predict** the Value of a **Feature** based on the Value of Another Feature.
+### **Fit**
+![Fit]()
 
-1. **Simple** Linear Regression
-2. **Multiple** Linear Regression
-3. **Polynomial** Linear Regression
-4. **Advanced** Linear Regression
+### **Metrics**
+![Metrics]()
+
+### **Evaluate**
+![Evaluate]()
